@@ -1,0 +1,12 @@
+{
+    "name": "comp-4537-lab3",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "http": "^0.0.1",
+      "fs": "0.0.1"
+    }
+  }
+  
