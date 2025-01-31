@@ -26,7 +26,7 @@ class Server {
     });
 
     server.listen(this.port, () => {
-      console.log(`Server running at http://localhost:${this.port}/`);
+      console.log(`Server running at ${this.port}/`);
     });
   }
 
